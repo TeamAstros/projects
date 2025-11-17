@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "172309981110",
+    "firebase_url": "https://campus-2e40e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "campus-2e40e",
+    "storage_bucket": "campus-2e40e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172309981110:android:40044b4fa6bdc9a747c317",
+        "android_client_info": {
+          "package_name": "com.example.secu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm1WpvezWKtH_HH5BauzwmLhVhfszyKew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

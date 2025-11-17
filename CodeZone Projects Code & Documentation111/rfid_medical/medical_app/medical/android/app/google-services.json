@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "161761615229",
+    "firebase_url": "https://medical-f4bff-default-rtdb.firebaseio.com",
+    "project_id": "medical-f4bff",
+    "storage_bucket": "medical-f4bff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161761615229:android:658a50840922c1371fc014",
+        "android_client_info": {
+          "package_name": "com.example.medical"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8GdPX1HRL2JX9XstTNCrwAV_yODHGV3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
